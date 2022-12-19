@@ -1,0 +1,5 @@
+# Number of pixels for 200 ft using google maps
+place1.png 120
+place2.png 110
+place3.png 100
+
