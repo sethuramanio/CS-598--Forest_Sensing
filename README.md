@@ -4,7 +4,7 @@
 Steps to Tree Segementation Code:
 1. Python 3.6 version recommended
 2. Navigate to the tree segemenation folder
-3. Run '''train.py'''
+3. Run `train.py`
 4. To visualize the segmentation from the pretrained model at an inference stage , run the '''inference_script.ipynb'''
 
 
