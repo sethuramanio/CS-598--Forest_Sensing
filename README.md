@@ -21,7 +21,7 @@ Steps to run the tree species classification:
 
 
 Steps to run planning:
-1. Python libararies os, numpy, scipy, pandas, seaborn, matplotlib, and pickle required. 
+1. Python libraries os, numpy, scipy, pandas, seaborn, matplotlib, and pickle required. Version must be recent. Note: seaborn and pandas must be compabtible with each other. 
 2. Navigate to `planning/src`.
 3. Run `main.py` to run experiments. This will create `planning/outputs` and will fill with .png maps and .pkl data files.
 4. Run `process_results.py` to process the results. This saves files `planning/outputs/all_data_${i}.pkl` with processed data in the form of numpy arrays. 
