@@ -1,6 +1,9 @@
 # CS-598--Forest_Sensing
 
 
+# One more file yet to be added- generating github friendly version
+
+
 Steps to Tree Segementation Code:
 1. Python 3.6 version recommended
 2. Navigate to the `tree segemenation folder`.
