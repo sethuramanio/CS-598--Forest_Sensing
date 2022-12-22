@@ -29,7 +29,7 @@ Addtionally, we also tried classifying tree species using the canopy images from
 
 1. Python 3.6 version recommended
 2. Install `requirements.txt` by `pip install -r requirements.txt`.
-3. Navigate to the `tree `Tree_Classification_Initial_Results` and run the `Training and Testing.ipynb`.
+3. Navigate to the `Tree_Classification_Initial_Results` and run the `Training and Testing.ipynb` .
 
 Steps to collect data with the Sensor Logic Inc's uwb radar:
 1. In a windows machine, connect the radar.
