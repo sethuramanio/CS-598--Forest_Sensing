@@ -34,6 +34,6 @@ Addtionally, we also tried classifying tree species using the canopy images from
 Steps to collect data with the Sensor Logic Inc's uwb radar:
 1. In a windows machine, connect the radar.
 2. Identify the usb port (go to Device Manager and check under USB Connector Managers)
-3. Change the port in line 5 of collect_data.m
-4. Run collect_data.m
-5. Run analyze_data.m
+3. Change the port in line 5 of `collect_data.m`
+4. Run `collect_data.m`
+5. Run `analyze_data.m`
